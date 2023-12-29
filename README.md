@@ -26,4 +26,8 @@ I've been learning web development for the past 2 years(NEXT.JS and REACT.JS) in
 
 ### Badges
 
-<a href="https://github.com/CHIRAG-DAMANI-08" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHIRAG-DAMANI-08&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/byjokese/code-stats-embedded@latest/dist/codestatsembedded.min.css" />
+<script src="https://cdn.jsdelivr.net/gh/byjokese/code-stats-embedded@latest/dist/codestatsembedded.min.js"></script>
+<script>
+  CodeStatsEmbed("ContainerSelector", "username");
+</script
