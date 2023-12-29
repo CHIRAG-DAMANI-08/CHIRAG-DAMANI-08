@@ -1,5 +1,8 @@
 # ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) About Me:
-I've been learning web development for the past 2 years(NEXT.JS and REACT.JS) including backend development with Mongo. Db, Prisma Db, and Planet Scale. Fluent in Python and currently also working on AI-driven apps with OpenAI<br><br>* 🌍  I'm based in Bangalore, India<br>* ✉️  You can contact me at [damanichiru38@gmail.com](mailto:damanichiru38@gmail.com)<br>* 🧠  I'm learning Next.Js 14, Typescript and Mongodb/Prismadb<br>* 🤝  I'm open to collaborating on New projects on AI, Research Projects, and anything coding-related<br>* ⚡  I'm Batman, but I code instead<br>
+Exploring web development for the past 2 years(NEXT.JS and REACT.JS) including backend development with Mongo. Db, Prisma Db, and Planet Scale. Fluent in Python and also working on AI-driven apps with help of OpenAI.
+<br><br>* 🌍   Mentally global, physically in Bangalore, India.
+<br>* ✉️  Lets have a chat [damanichiru38@gmail.com](mailto:damanichiru38@gmail.com)<br>* 🧠  Exploring Next.Js 14, Typescript and Mongodb/Prismadb
+<br>* 🤝  Open to collaborating on new AI projects, research and coding projects.<br>*  😎  I'm Batman, but I code instead<br>
 
 
 ## 🌐 Socials:
